@@ -14,9 +14,9 @@ All feedback and suggestions (especially in the form of pull requests) are very 
 
 If these policies sound like a place where you want to work, check out our jobs postings at [getSOE.com/about](https://getSOE.com/about).
 
-— [B](https://twitter.com/brennenbyrne)
+— [Justin Lynn](https://twitter.com/jtylynn)
 
-CEO of SOE
+People Operations Lead
 
 ***
 
@@ -75,13 +75,4 @@ CEO of SOE
 
 We hope that many more people will suggest ways for us to improve these policies, and the first version would not have been possible without the thoughtful input from these great folks.
 
-* [Angel Lewis](http://www.allemployerlaw.com/)
-* [Ashe Dryden](http://www.ashedryden.com/)
 * [B](https://twitter.com/brennenbyrne)
-* [Mark Hudnall](https://twitter.com/landakram)
-* [Jesse Pollak](https://twitter.com/jessepollak)
-* [Darrell Jones](https://twitter.com/darrelljonesiii)
-* [Grace Wong](https://twitter.com/gwongz)
-* [Julie Horvath](https://twitter.com/nrrrdcore)
-* [Ikka Riley](https://twitter.com/isicalynn)
-* [Erica Baker](https://twitter.com/ericajoy)
