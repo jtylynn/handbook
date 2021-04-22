@@ -1,4 +1,4 @@
-# Clef Core Values
+# SOE Core Values
 
 ## Be better today than yesterday.
 
