@@ -6,14 +6,9 @@ Transparency may seem like a passive process, like "don’t hide anything," but 
 
 ## Communication
 
-### Friday #Updates
+### Monthly Tag-ups
 
-Every Friday, everyone on the team posts an update in the #updates channel in Slack that includes:
-
-* What they accomplished this week
-* What they hope to accomplish next week
-
-This makes it easy to keep in the loop on projects and also keeps everyone at SOE accountable to everyone else to do their part.
+Every month, everyone on the team joins a meeting where Dennis, our CEO, goes through all upcoming work and projects in the pipeline. This makes it easy to keep in the loop on projects and also keeps everyone at SOE accountable to everyone else to do their part.
 
 ### Pro-active checkins
 

@@ -2,7 +2,7 @@
 
 There are currently **10,000,000** shares of SOE common stock outstanding.
 
-Our 409A Valuation Report, which discusses the price per share of employee shares, is available (to employees only) [here](https://drive.google.com/open?id=0Bwj0rVaUQUXPaXREcklsZ0xuNTA). Any employee with questions about the report, our share price, or valuation should ask B.
+Our 409A Valuation Report, which discusses the price per share of employee shares, is available (to employees only) [here](https://drive.google.com/open?id=). Any employee with questions about the report, our share price, or valuation should ask POPS.
 
 **This guide is meant to help you understand the piece of SOE that you’re going to own!** Its goal is to be more straightforward than the full Stock Incentive Plan and Award Agreement, which both go into the full legal details. You should consult an employment attorney if you have any questions about navigating your stock options and before you make important decisions.
 
@@ -18,17 +18,13 @@ If we gave you $10,000 worth of SOE stock today, you would have to pay thousands
 
 ## Vesting
 
-Instead of giving you all of your options on day one, you get them over time. This process is called vesting and different companies offer vesting schedules of different lengths. If you had a basic 2 year vesting period, you would own a quarter of your stock after 6 months, half of your stock after a year, and all of it after 2 years.
+Instead of giving you all of your options on day one, you get them over time. This process is called vesting and different companies offer vesting schedules of different lengths. The industry standard right now is 4 to 6 years, but at SOE, employees’ stock vests over 4 years with a 1 year cliff. Vesting happens on a monthly basis (so you vest ~1/48 of your options each month), but many vesting schedules, including ours, also include a cliff.
 
-The industry standard right now is 4 years, but at SOE, employees’ stock vests over 6 years. We offer much higher equity grants than the industry standard (about 2x in most cases), but it takes longer to earn them. This works out so that employees always come out ahead, even if they leave before their stock has fully vested, but helps us communicate that we’re looking for employees who want to build longer careers at SOE.
-
-Vesting happens on a monthly basis (so you vest 1/72 of your options each month), but many vesting schedules include a cliff.
-
-A cliff is a period at the beginning of the vesting period where your equity does not vest monthly, but instead vests at the end. At most companies, including SOE, this cliff happens at one year. This means that if you leave your job before you’ve worked for a whole year, none of your options will be vested. At the end of that year, you’ll vest the entire year’s worth of equity all at once. This helps keep the ownership of SOE stock to folks who have worked at the company for a meaningful amount of time.
+A cliff is a period at the beginning of the vesting period where your equity does not vest monthly, but instead vests at the end. At most companies, including SOE, this cliff happens at one year. This means that if you leave your job before you’ve worked for a whole year, none of your options will be vested. At the end of that year, you’ll vest the entire year’s worth of equity all at once. This helps keep the ownership of SOE stock to folks who have worked at the company for a meaningful amount of time and helps us communicate that we’re looking for employees who want to build longer careers at SOE.
 
 ## Dilution
 
-When SOE raises money from outside investors, it needs to create new stock to sell those investors. You will own the same number of shares as you did before, but there will be more total shares of SOE available, so you will own a smaller percent of the company -- this is called dilution.
+If SOE raises money from outside investors, it will likely need needs to create new stock to sell those investors. You will own the same number of shares as you did before, but there will be more total shares of SOE available, so you will own a smaller percent of the company -- this is called dilution.
 
 If we get a fair valuation for the company, then the value of your options stay the same when we raise outside money because the company’s new valuation will be equal to the old value of the company + the new capital raised. For example, if SOE is worth $20m and we raise $5m, we are now worth $25m. If you owned 5% of $20m before, you now own 4% of $25m (we sold 20% of the company, or, said differently, diluted you by 20%). The 5% stake was worth $1m before the fundraise and the 4% stake is now worth $1m.
 
@@ -72,7 +68,7 @@ When SOE raises outside capital, investors will buy a form of Preferred Stock th
 
 ## Outstanding Convertible Notes
 
-SOE has raised $1,858,555 to date, all as convertible notes.
+SOE has raised $XXXX to date, all as convertible notes.
 
 A convertible note is a popular way for startups to raise money because it lets us delay picking a valuation for a company. Instead of selling equity for a fixed price, we borrow the money as debt. Then, next time we raise money, that debt converts to equity at a discount. The discount rewards the initial investors for investing in the company early, and usually comes in 2 forms: a discount and a cap.
 
@@ -80,8 +76,6 @@ The discount is a fixed percentage (20% for SOE) that the investors will get whe
 
 For SOE’s fundraise:
 
-$175,000 was raised on notes with a cap of $5m
+$XXX was raised on notes with a cap of $5m
 
-$1,683,555 was raised on notes with a cap of $6m
-
-Anyone is always welcome to ask B, our CEO, any questions they have about their options, SOE’s fundraising, or anything else related to equity at SOE. However, everyone should also consult a lawyer before making important financial decisions, especially regarding their equity because there are complex legal and tax requirements that may apply.
+Anyone is always welcome to ask POPS any questions they have about their options, SOE’s fundraising, or anything else related to equity at SOE. However, everyone should also consult a lawyer before making important financial decisions, especially regarding their equity because there are complex legal and tax requirements that may apply.

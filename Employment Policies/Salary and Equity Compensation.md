@@ -18,24 +18,20 @@ To avoid that bias, and to better align motivations, we have a standard rubric t
   </tr>
   <tr>
     <td>More than 5 Years Experience</td>
-    <td>$120k</td>
-    <td>$100k</td>
+    <td>$125K+</td>
+    <td>$100K+</td>
   </tr>
   <tr>
     <td>Less than 5 Years Experience</td>
-    <td>$100k</td>
-    <td>$70k</td>
+    <td>$85-125K</td>
+    <td>$62-100K</td>
   </tr>
 </table>
 
 
 We count experience as any time doing the same category of job at a company similar to SOE (such that the experience is relevant to the job being offered at SOE).
 
-The offer also comes with the option to take $5k less salary in exchange for ~.1% more equity.
-
-At the beginning of each year (in January), we will adjust this rubric to make sure it stays at market rate.
-
-Note: The three SOE founders' salaries do not follow this rubric and are all $50k per year.
+At the end of each year (in December), we will adjust this rubric to make sure it stays at market rate.
 
 ##Equity
 
@@ -43,6 +39,6 @@ Every employee will be offered 41,963 SOE stock options (~.9% of outstanding sha
 
 These equity grants are larger than industry standard, but also vest over a longer period of time. Employee equity vests over 6 years with a 1 year cliff (while 4 years with a 1 year cliff is standard).
 
-At SOE, we’re hoping to build a team that stays with the company and grows with us, so offering larger ownership of the company over a greater period of time aligns with our goals. If employees leave SOE before the 6 years, they will still own more of SOE than if we offered less equity that vested more quickly, but the longer vesting schedule makes our goal more explicit in the initial offer.
+At SOE, we’re hoping to build a team that stays with the company and grows with us, so offering larger ownership of the company over a greater period of time aligns with our goals.
 
-All new employees should also check out our [Guide to Your Equity](https://github.com/SOE/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md), which walks through the nuances of owning SOE stock options.
+All new employees should also check out our [Guide to Your Equity](https://github.com/jtylynn/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md), which walks through the nuances of owning SOE stock options.

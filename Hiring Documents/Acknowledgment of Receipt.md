@@ -28,7 +28,7 @@ Signature: ________________________
 
 
 ## Contents of the SOE Employee Handbook
-This handbook is hosted online at [github.com/jtylynn/handbook](https://github.com/handbook), along with several other policies. The *SOE Employee Handbook* consists of only the policies listed below.
+This handbook is hosted online at [github.com/jtylynn/handbook](https://github.com/jtylynn/handbook), along with several other policies. The *SOE Employee Handbook* consists of only the policies listed below.
 
 ### Introduction
 * [Handbook Introduction](https://github.com/jtylynn/handbook/blob/master/Hiring%20Documents/Handbook%20Introduction.md)

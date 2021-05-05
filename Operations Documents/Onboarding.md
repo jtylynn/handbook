@@ -18,7 +18,7 @@ After a candidate accepts an offer to join SOE, there are a few things that we c
 
     3. Google Apps account
 
-        1. Gmail [NAME@getSOE.com](mailto:NAME@getSOE.com)
+        1. Gmail [NAME@soeffects.com](mailto:NAME@soeffects.com)
 
         2. Google Drive (base folders should be pre-configured for them)
 
@@ -28,7 +28,7 @@ After a candidate accepts an offer to join SOE, there are a few things that we c
 
     4. Slack
 
-    5. Trello
+    5. Jira
 
 3. Background reading
 

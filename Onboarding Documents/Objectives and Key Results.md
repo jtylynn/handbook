@@ -6,27 +6,19 @@ Objectives and Key Results (OKRs) is a method for defining and keeping track of 
 
 Objectives are the high level achievements you are shooting for, like:
 
-* Grow our audience in the Bitcoin community
+* Optimize design and development process for our engineering team
 
-* Increase engagement with the content we produce
-
-* Improve the first time experience of using SOE (onboarding)
-
-* Speed up deploy process for our engineering team
-
-* Lower the average wait time for a support ticket response
+* Increase efficiency and lower overages on projects
 
 * Develop better networking skills
 
 Key results are the measurable outcomes that define success for the objectives. **Key results must be measurable on a scale from 0-10**, so for the third example objective, the results might be:
 
-* Interview 20 users after they go through the onboarding experience (% completion)
-
 * Pick 3 places where we can make the biggest improvements and write specs for all three improvements by July 31 (-2 points for each day late)
 
 * Ship those improvements by September 15 (-3 points for each week late)
 
-* Increase conversion through signup process by 10%, starting at 50% (% completion)
+* Improve SOW and contract approval time by 10%
 
 ## Setting OKRs
 
@@ -38,7 +30,7 @@ For every quarter, one goal should always be a learning or improvement objective
 
 ## Tracking OKRs
 
-Every employee should keep track of their OKRs in their own Google Spreadsheet in the OKRs Folder. Within the spreadsheet, there should be a new sheet for each new quarter.  
+Every employee should keep track of their OKRs in Lattice.  
 
 OKRS should be talked about every week in 1:1s to consider how each objective is progressing, places where help may be necessary, and how well they reflect current objectives.
 

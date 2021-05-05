@@ -4,8 +4,7 @@
 
 This policy is written in the context of our current company setup, which is that every employee works in the same office for the most of the work week. Specifically, this document addresses working from home on a regular basis and/or working remotely for up to one week out of any given month. It does not address:
 
-* A fully remote employee
-* An employee who works from the office 1wk/month or is remote for the majority of their time
+* An employee who works from the office 1wk/month or is remote and/or part-time for the majority of their time
 * A team that is distributed
 
 If and when the current company setup changes, we should address the above situations. For the purpose of this document, we interpret remote work as as a co-located employee of SOE working from home or from somewhere irregular. 

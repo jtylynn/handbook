@@ -1,6 +1,6 @@
 # Vacation and Sick Leave
 
-Taking time off and recharging is critical to doing your best work at SOE, so in addition to the recognized [Holiday List](https://github.com/SOE/handbook/blob/master/Benefits%20and%20Perks/Holiday%20List.md), SOE offers unlimited paid vacation. Employees should schedule their vacations, let the rest of the team know, and add it to their shared work calendar at least a week in advance.
+Taking time off and recharging is critical to doing your best work at SOE, so in addition to the recognized [Holiday List](https://github.com/jtylynn/handbook/blob/master/Benefits%20and%20Perks/Holiday%20List.md), SOE offers unlimited paid vacation. Employees should schedule their vacations, let the rest of the team know, and add it to their shared work calendar at least a week in advance.
 
 Employees also accrue up to 96 hours of sick leave every year.
 

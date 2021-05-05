@@ -4,25 +4,25 @@ We are excited to extend an official offer for you to join the SOE team as **a/t
 
 In our conversation, you said you wanted to take the **EQUITY/SALARY** heavy offer, so your starting salary will be **SALARY** per year and you will be recommended for an option to purchase **SHARES** shares of SOE’s common stock. There are **OUTSTANDING SHARES** shares of SOE common stock outstanding, and your shares will vest over six years, with a one year cliff.
 
-Equity at startups is complicated, so we’ve created a [Guide to Your Equity](https://github.com/SOE/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md) that explains how options are issued, exercised, and what they might be worth if SOE is successful.
+Equity at startups is complicated, so we’ve created a [Guide to Your Equity](https://github.com/jtylynn/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md) that explains how options are issued, exercised, and what they might be worth if SOE is successful.
 
 The best perk of working at SOE is your incredible new coworkers, but you’re also entitled to all of the benefits that apply to you from our benefits plan. These currently include:
 
-* [Healthcare, Dental, Vision](https://github.com/SOE/handbook/blob/master/Benefits%20and%20Perks/Healthcare%20and%20Disability%20Insurance.md)
+* [Healthcare, Dental, Vision](https://github.com/jtylynn/handbook/blob/master/Benefits%20and%20Perks/Healthcare%20and%20Disability%20Insurance.md)
 
-* [Short and Long Term Disability Insurance](https://github.com/SOE/handbook/blob/master/Benefits%20and%20Perks/Healthcare%20and%20Disability%20Insurance.md)
+* [Short and Long Term Disability Insurance](https://github.com/jtylynn/handbook/blob/master/Benefits%20and%20Perks/Healthcare%20and%20Disability%20Insurance.md)
 
-* [Three weeks vacation (15 days PTO)](https://github.com/SOE/handbook/blob/master/Benefits%20and%20Perks/Vacation%20and%20Sick%20Leave.md)
+* [Three weeks vacation (15 days PTO)](https://github.com/jtylynn/handbook/blob/master/Benefits%20and%20Perks/Vacation%20and%20Sick%20Leave.md)
 
-* [Holidays](https://github.com/SOE/handbook/blob/master/Benefits%20and%20Perks/Holiday%20List.md)
+* [Holidays](https://github.com/jtylynn/handbook/blob/master/Benefits%20and%20Perks/Holiday%20List.md)
 
-* [A quarter-long (12 week) paid sabbatical every 5 years working at SOE](https://github.com/SOE/handbook/blob/master/Benefits%20and%20Perks/Sabbatical.md)
+* [A quarter-long (12 week) paid sabbatical every 5 years working at SOE](https://github.com/jtylynn/handbook/blob/master/Benefits%20and%20Perks/Sabbatical.md)
 
-* [12 weeks paid new parent (maternity/paternity) leave](https://github.com/SOE/handbook/blob/master/Benefits%20and%20Perks/New%20Parent%20Leave.md)
+* [12 weeks paid new parent (maternity/paternity) leave](https://github.com/jtylynn/handbook/blob/master/Benefits%20and%20Perks/New%20Parent%20Leave.md)
 
-* [Continuing education stipend for industry-related conferences, seminars, coaching, or mentorship activities](https://github.com/SOE/handbook/blob/master/Benefits%20and%20Perks/Continuing%20Education.md)
+* [Continuing education stipend for industry-related conferences, seminars, coaching, or mentorship activities](https://github.com/jtylynn/handbook/blob/master/Benefits%20and%20Perks/Continuing%20Education.md)
 
-* [Flights and hotels covered for speaking at industry conferences](https://github.com/SOE/handbook/blob/master/Benefits%20and%20Perks/Continuing%20Education.md)
+* [Flights and hotels covered for speaking at industry conferences](https://github.com/jtylynn/handbook/blob/master/Benefits%20and%20Perks/Continuing%20Education.md)
 
 The benefits we offer will adapt to the team’s needs over time and we evaluate and adjust compensation at the beginning of each year (around January).
 
@@ -30,9 +30,9 @@ This position is full-time, so you should not take any other jobs without talkin
 
 SOE is an "at-will" employer, which means that both you and SOE have the right to stop working together at any time, with or without advance notice, and for any reason (or for no reason). We also reserve the right to modify the terms and conditions of employment including your position, pay, and benefits offered depending on the growth and needs of the company.
 
-Our [Employee Handbook](https://github.com/SOE/handbook) goes over the general policies and practices for working at SOE. This letter is specific to you and it supersedes the handbook if they conflict -- otherwise, the handbook is the authority on working at SOE.
+Our [Employee Handbook](https://github.com/jtylynn/handbook) goes over the general policies and practices for working at SOE. This letter is specific to you and it supersedes the handbook if they conflict -- otherwise, the handbook is the authority on working at SOE.
 
-But this letter doesn’t mean anything unless you sign it! And before this takes legal effect, you’ll need to fill out our [Proprietary Information and Inventions Agreement](https://github.com/SOE/handbook/blob/master/Hiring%20Documents/Employee%20Proprietary%20Information%20and%20Inventions%20Assignment%20Agreement%20(NDA).doc.md) and establish your identity and authorization to work in the country.
+But this letter doesn’t mean anything unless you sign it! And before this takes legal effect, you’ll need to fill out our [Proprietary Information and Inventions Agreement](https://github.com/jtylynn/handbook/blob/master/Hiring%20Documents/Employee%20Proprietary%20Information%20and%20Inventions%20Assignment%20Agreement%20(NDA).doc.md) and establish your identity and authorization to work in the country.
 
 It has been great getting to know you through the interview process. The whole SOE team is convinced that you’re the right person for this job, and we can’t wait to work with you!
 ```
@@ -42,7 +42,8 @@ SOE, Inc.
 
 _____________________
 
-B Byrne
+Justin Lynn
+People Operations Lead
 ```
 
 ## Acceptance
