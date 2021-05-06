@@ -68,9 +68,8 @@ If these policies sound like a place where you want to work, check out our jobs 
 * [Other Protected Absences](https://github.com/jtylynn/handbook/blob/master/Benefits%20and%20Perks/Other%20Protected%20Absences.md)
 
 
-
 # Acknowledgements
 
-We hope that many more people will suggest ways for us to improve these policies, and the first version would not have been possible without the thoughtful input from these great folks.
+We hope that many more people will suggest ways for us to improve these policies, and this version would not have been possible without the thoughtful input from these great folks.
 
-* Justin Lynn (People Operations Lead)
+* [B Byrne](https://twitter.com/iamb?lang=en) & the (former) Clef Team
